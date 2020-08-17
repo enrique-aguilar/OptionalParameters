@@ -1,0 +1,12 @@
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.exe
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.deps.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.runtimeconfig.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.runtimeconfig.dev.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\bin\Debug\netcoreapp3.1\optionalParameters.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Optional Parameters\optionalParameters\obj\Debug\netcoreapp3.1\optionalParameters.genruntimeconfig.cache
